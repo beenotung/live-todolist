@@ -1,0 +1,4 @@
+user=node
+host=todo-app.cc
+root_dir=/home/node/workspace/github.com/beenotung/todo-app
+pm2_name="todo-app"
